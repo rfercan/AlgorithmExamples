@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum2Nums", "Sum2Nums\Sum2Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquare2Nums", "SumSquare2Nums\SumSquare2Nums.csproj", "{03EB1CF5-4921-4232-9B56-56763AE3D146}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCubes1to100", "SumCubes1to100\SumCubes1to100.csproj", "{E7125E06-DD26-4408-A8F4-CD3E816421EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAgeofPerson", "CalculateAgeofPerson\CalculateAgeofPerson.csproj", "{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{03EB1CF5-4921-4232-9B56-56763AE3D146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03EB1CF5-4921-4232-9B56-56763AE3D146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03EB1CF5-4921-4232-9B56-56763AE3D146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7125E06-DD26-4408-A8F4-CD3E816421EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7125E06-DD26-4408-A8F4-CD3E816421EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7125E06-DD26-4408-A8F4-CD3E816421EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7125E06-DD26-4408-A8F4-CD3E816421EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

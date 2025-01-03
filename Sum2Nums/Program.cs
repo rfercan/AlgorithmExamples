@@ -1,5 +1,5 @@
 ﻿namespace Sum2Nums
-{
+{ /*Finding the sum of two numbers*/
     internal class Program
     {
         static void Main(string[] args)

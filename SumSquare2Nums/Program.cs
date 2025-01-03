@@ -1,5 +1,5 @@
 ﻿namespace SumSquare2Nums
-{
+{ /*Finding the sum of the square of two numbers */
     internal class Program
     {
         static void Main(string[] args)
