@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum2Nums", "Sum2Nums\Sum2Nums.csproj", "{9AB77DFD-4C47-409F-B07F-B4E4916720AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum2Nums", "Sum2Nums\Sum2Nums.csproj", "{9AB77DFD-4C47-409F-B07F-B4E4916720AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumSquare2Nums", "SumSquare2Nums\SumSquare2Nums.csproj", "{03EB1CF5-4921-4232-9B56-56763AE3D146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumSquare2Nums", "SumSquare2Nums\SumSquare2Nums.csproj", "{03EB1CF5-4921-4232-9B56-56763AE3D146}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumCubes1to100", "SumCubes1to100\SumCubes1to100.csproj", "{E7125E06-DD26-4408-A8F4-CD3E816421EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumCubes1to100", "SumCubes1to100\SumCubes1to100.csproj", "{E7125E06-DD26-4408-A8F4-CD3E816421EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateAgeofPerson", "CalculateAgeofPerson\CalculateAgeofPerson.csproj", "{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateAgeofPerson", "CalculateAgeofPerson\CalculateAgeofPerson.csproj", "{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialofNum", "FactorialofNum\FactorialofNum.csproj", "{19DF5617-2DA0-4CDD-B031-B9FA101BE050}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3341CCDE-1469-47BE-ACB1-4369CA6C43E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DF5617-2DA0-4CDD-B031-B9FA101BE050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DF5617-2DA0-4CDD-B031-B9FA101BE050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DF5617-2DA0-4CDD-B031-B9FA101BE050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DF5617-2DA0-4CDD-B031-B9FA101BE050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
