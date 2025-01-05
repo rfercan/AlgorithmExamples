@@ -19,8 +19,7 @@
                 num = num / 10;
                 result++;
             }
-
-            
+                  
             
             
             Console.WriteLine(result);
