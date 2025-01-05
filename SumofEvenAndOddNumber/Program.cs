@@ -23,6 +23,7 @@
                
 
             }
+
             Console.WriteLine("Sum of Even: "+sumEven+ " Sum of Odd: "+sumOdd);
             result = sumEven / sumOdd;
             Console.WriteLine("Ratio is: " + result);
