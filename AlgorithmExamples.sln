@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumEqualto7", "NumEqualto7\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTtable", "MultiplicationTtable\MultiplicationTtable.csproj", "{000ADE8F-4AE8-4A5F-9C6F-CA732F9C4C9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerof5", "Powerof5\Powerof5.csproj", "{07D780FF-A1C5-4F59-81C7-F093C1999AA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{000ADE8F-4AE8-4A5F-9C6F-CA732F9C4C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{000ADE8F-4AE8-4A5F-9C6F-CA732F9C4C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{000ADE8F-4AE8-4A5F-9C6F-CA732F9C4C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D780FF-A1C5-4F59-81C7-F093C1999AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D780FF-A1C5-4F59-81C7-F093C1999AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D780FF-A1C5-4F59-81C7-F093C1999AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D780FF-A1C5-4F59-81C7-F093C1999AA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
